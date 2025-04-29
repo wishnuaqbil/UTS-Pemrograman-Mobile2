@@ -2,8 +2,8 @@
 ## APLIKASI UrNote
 | UTS  |  Pemrograman Mobile 2   |
 |-------|--------- |
-| Nama   | Habib Suprayoga |
-| Nim  | 312310608 |
+| Nama   | Wishnu Aqbil Ramadani |
+| Nim  | 312310591 |
 | Kelas | TI.23.A6 |
 | **Mata Kuliah**    |     Pemrograman Mobile     |
 | **Dosen Pengampu** |Donny Maulana, S.Kom., M.M.S.I  |
